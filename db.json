@@ -16,7 +16,24 @@
       "location": "Dour",
       "date": "July 22 2021",
       "time": "09:00"
+    },
+    {
+      "id": 3,
+      "category": "concert",
+      "title": "Rock Werchter",
+      "description": "Festival in Werchter",
+      "location": "Wercheter",
+      "date": "July 1 2022",
+      "time": "12:00"
+    },
+    {
+      "id": 4,
+      "category": "concert",
+      "title": "Woo hah",
+      "description": "Festival in Bergen",
+      "location": "Bergen",
+      "date": "July 25 2021",
+      "time": "09:00"
     }
   ]
-
 }
